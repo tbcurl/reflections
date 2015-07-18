@@ -3,3 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 You tell git that you want it to track all of your commits moving forward.  If you don't do this, you won't have a record of any of your 
 past commits or be able to backtrack.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's like a purgatory for the files -- an inbetween where they are neither in the working directory or the repository.  To be honest, 
+I don't see much value.  It seems like it would be pretty simple to just select the files I want to add to the repository and move them
+straight in.  I'm sure I'm about to find out why this is not a great idea.
