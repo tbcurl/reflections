@@ -1,0 +1,33 @@
+Using the diff command is helpful because it will allow quick and easy identification of any changes between versions.  If you are looking 
+for typos or other "non content" errors, this is the first place to begin searching.  Obviously the time savings in going through thousands of 
+lines of code goes without saying, even though I just said it.  :-D
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It can help you identify process habits that may be subject to improvement; it can help you see patterns of mistakes or inefficiencies that 
+you have changed repeatedly.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically 
+saved, like Google docs does?
+
+I think it's helpful in the sense of making you consider the logical construction of your code.  Not only will it provide a good trail to follow 
+when you want to identify changes or errors, but it can also help you see if you are encapsulating your ideas effectively.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google 
+Docs, treat each file separately?
+
+Because if files are interdependant, you must be able to see how they change together.
+
+How can you use the commands git log and git diff to view the history of files?
+
+This makes it possible to easily identify each saved juncture in your history, as well as identify how many changes were made at each 
+point and what those changes were.
+
+How might using version control make you more confident to make changes that could break something?
+
+It removes the fear that you might do irrepairable damage to your code and therefore will allow you to try some things that could prove
+useful without the fear of making a tragic mistake.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Initially I want to use it with my students to make for easy checkin on progress they are making on coding and web projects in my class.

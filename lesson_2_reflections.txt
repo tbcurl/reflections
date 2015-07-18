@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You tell git that you want it to track all of your commits moving forward.  If you don't do this, you won't have a record of any of your 
+past commits or be able to backtrack.
+
