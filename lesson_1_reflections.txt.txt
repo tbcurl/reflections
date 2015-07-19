@@ -20,7 +20,7 @@ Because if files are interdependant, you must be able to see how they change tog
 
 How can you use the commands git log and git diff to view the history of files?
 
-This makes it possible to easily identify each saved juncture in your history, as well as identify how many changes were made at each 
+This makes it possible to easily identify each saved juncture in the history, as well as identify how many changes were made at each 
 point and what those changes were.
 
 How might using version control make you more confident to make changes that could break something?
